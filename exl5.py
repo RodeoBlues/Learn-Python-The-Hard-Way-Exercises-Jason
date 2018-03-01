@@ -1,3 +1,4 @@
+print "Exercise 5: More Variables and Printing"
 name = 'Jason Lee'
 age = 24 # not a lie
 height = 166 # cm

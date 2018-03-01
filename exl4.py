@@ -1,3 +1,5 @@
+print "Exercise 4: Variables And Names"
+print #
 # Variable cars is straight away defined as an integer with a value of 100.
 # There are 100 cars.
 cars = 100

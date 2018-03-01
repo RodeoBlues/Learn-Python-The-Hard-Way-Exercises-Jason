@@ -1,3 +1,4 @@
+print "Exercise 3: Numbers and Math"
 print #
 print "I will now count my chickens:"
 print #
